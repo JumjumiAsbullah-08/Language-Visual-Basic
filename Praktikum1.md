@@ -1,11 +1,10 @@
 # Language-Visual-Basic
-Bahasa Pemrograman Visual Basic
-PERTEMUAN KE 10
-DOSEN PENGAMPU : BAPAK. ZUFRIA ILKA
-KOLEKSI DATA DENGAN LISTVIEW PRAKTIKUM 1
+    Bahasa Pemrograman Visual Basic
+    PERTEMUAN KE 10
+    DOSEN PENGAMPU : BAPAK. ZUFRIA ILKA 
+    KOLEKSI DATA DENGAN LISTVIEW PRAKTIKUM 1
 
-Public Class Latihan1
-
+    Public Class Latihan1
     Sub BuatTabel()
         LV.Columns.Add("NPM", 90, HorizontalAlignment.Center)
         LV.Columns.Add("Nama", 100, HorizontalAlignment.Center)
